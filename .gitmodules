@@ -1,0 +1,3 @@
+[submodule "CubicInterpolationCUDA"]
+	path = CubicInterpolationCUDA
+	url = https://github.com/DannyRuijters/CubicInterpolationCUDA/
